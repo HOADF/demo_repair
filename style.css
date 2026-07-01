@@ -10,13 +10,11 @@ body {
 /* Шапка сайта */
 header { 
     width: 100%; 
-    background: #000; 
-    padding-bottom: 20px;
-}
-
+    
+    
 .header-img { 
     width: 100%; 
-    max-height: 400px; 
+    max-height: 600px; 
     object-fit: cover; 
 }
 
