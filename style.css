@@ -13,15 +13,15 @@ header {
     
     
 .header-img { 
-    width: 90%; 
-    max-height: 500px; 
+    width: 100%; 
+    max-height: 800px; 
     object-fit: cover; 
 }
 
 /* Настройки карусели Swiper */
 .swiper { 
     width: 100%; 
-    max-width: 300px; /* Ограничиваем ширину карусели */
+    max-width: 100px; /* Ограничиваем ширину карусели */
     padding: 40px 0; 
 }
 
