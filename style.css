@@ -20,14 +20,14 @@ header {
 
 /* Настройки карусели Swiper */
 .swiper { 
-    width: 50%; 
+    width: 100%; 
     max-width: 100px; /* Ограничиваем ширину карусели */
     padding: 40px 0; 
 }
 
 .swiper-slide { 
-    width: 400px; /* Размер слайда */
-    height: 300px; 
+    width: 100px; /* Размер слайда */
+    height: 100px; 
     opacity: 0.5; /* Боковые картинки полупрозрачные */
     transition: all 0.3s ease; 
 }
